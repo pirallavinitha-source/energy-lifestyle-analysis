@@ -1,4 +1,4 @@
-# 📊 Daily Energy Level vs Lifestyle Factors ⚡
+# 📊 Daily Energy Level vs Lifestyle Factors Analysis ⚡
 
 ## 📌 Project Overview
 This project analyzes how daily lifestyle habits such as sleep, water intake, screen time, and exercise affect energy levels.
